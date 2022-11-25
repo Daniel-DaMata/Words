@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+    <item>Assembly</item>
+    <item>ASP.net</item>
+    <item>Basic</item>
+    <item>C</item>
+    <item>C++</item>
+    <item>C#</item>
+    <item>COBOL</item>
+    <item>Clojure</item>
+    <item>DBASE</item>
+    <item>Darwin</item>
+    <item>DataFlex</item>
+    <item>EXEL</item>
+    <item>Ease</item>
+    <item>Eiffel</item>
+    <item>F#</item>
+    <item>F-Script</item>
+    <item>FACT</item>
+    <item>GT.M</item>
+    <item>GScript</item>
+    <item>Haskell</item>
+    <item>Haxe</item>
+    <item>Icon</item>
+    <item>ISLISP</item>
+    <item>JavaScript</item>
+    <item>Julia</item>
+    <item>Kotlin</item>
+    <item>LOLCODE</item>
+    <item>Limbo</item>
+    <item>MLAB</item>
+    <item>METAFONT</item>
+    <item>NASM</item>
+    <item>NQC</item>
+    <item>Object REXX</item>
+    <item>Obereon-2</item>
+    <item>PHP</item>
+    <item>PL/X</item>
+    <item>QML</item>
+    <item>QBasic</item>
+    <item>RCML</item>
+    <item>REBOL</item>
+    <item>SCM</item>
+    <item>Sass</item>
+    <item>TeX</item>
+    <item>TI BASIC</item>
+    <item>Uniface</item>
+    <item>Umple</item>
+    <item>Vvvv</item>
+    <item>Whiley</item>
+    <item>Xojo</item>
+    <item>Zig</item>
+    </string-array>
+</resources>
